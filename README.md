@@ -6,9 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/99622544/167194677-0d29feb4-59dc-410f-9a13-679918e8d26e.png)
 
-In this applicative i use:
-node.js with express framework, 
-ejs for the views,
+In this applicative i use:<br>
+node.js with express framework, <br>
+ejs for the views,<br>
 and sequilize with mysql for data base.
 
 ## You can acess the application here! 🖥️ 
